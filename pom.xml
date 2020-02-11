@@ -87,7 +87,7 @@
 		</repository>
 		<repository>
 			<id>ATILIKA dependencies</id>
-			<url>http://www.atilika.org/nexus/content/repositories/atilika</url>
+			<url>https://www.atilika.org/nexus/content/repositories/atilika</url>
 		</repository>
 	</repositories>
 	
