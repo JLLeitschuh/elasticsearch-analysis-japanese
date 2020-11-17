@@ -19,7 +19,7 @@
 
 	<properties>
 		<elasticsearch.version>0.18.6</elasticsearch.version>
-		<lucene.version>3.5.0</lucene.version>
+		<lucene.version>7.1.0</lucene.version>
 		<kuromoji.version>0.7.7</kuromoji.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
